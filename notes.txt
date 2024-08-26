@@ -1,0 +1,19 @@
+MEDIA PLAYER:
+
+-react front-end,jsonserver backend
+
+
+-add youtube videos
+-view added youtube videos
+-delete added youtube videos
+-add categories
+-view added categories
+-delete categories
+-add videos to categories
+-view watch history
+
+->React Bootstrap
+
+-npm i react-bootstrap bootstrap
+
+->bootswatch.com -> download and import theme to app.jsx
