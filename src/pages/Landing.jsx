@@ -15,7 +15,7 @@ function Landing() {
             </h2>
             <p style={{ textAlign: 'justify' }}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam consequuntur rerum corporis! Maxime, provident. Consectetur fuga dolor corrupti vero voluptatibus hic, nihil explicabo! Tempore adipisci nihil facilis, quo deleniti in!</p>
             <div className='d-grid'>
-              <Link to={'/home'} className='btn btn-success'>Let's Go</Link>
+              <Link to={'/log'} className='btn btn-success'>Let's Go</Link>
             </div>
           </Col>
           <Col className='py-4' sm={12} md={6}>

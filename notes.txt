@@ -17,3 +17,36 @@ MEDIA PLAYER:
 -npm i react-bootstrap bootstrap
 
 ->bootswatch.com -> download and import theme to app.jsx
+
+
+https://www.youtube.com/watch?v=RLzC55ai0eo
+https://www.youtube.com/embed/RLzC55ai0eo?si=PC4667wLg_6_XcEy
+
+https://www.youtube.com/watch?v=5Eqb_-j3FDA
+https://www.youtube.com/embed/5Eqb_-j3FDA?si=pfoRfoFx2F1gbug4
+
+=>State lifting:
+-technique for passing data from child to parent component
+
+=>react-toastify
+-for settoing notifications easily
+-npm i react-toastify - to install
+
+Session Storage and Local Storage:
+----------------------------------
+-both are mostly similar storages provided by browser
+-can store data in string format specifically in both
+-localStorage data remains there if it is not cleared,but sessionStorage data get removed automatically after
+ a specific amount of time
+-data storage and access are similar in implementation in the case of both
+-localStorage & sessionStorage are the predefined js objects that used for handling both storages
+Local Storage:
+-localStorage.setItem("key",value)
+-localStorage.getItem("key")
+-localStorage.removeItem("key")
+-localStorage.clear()
+Session Storage:
+-sessionStorage.setItem("key",value)
+-sessionStorage.getItem("key")
+-sessionStorage.removeItem("key")
+-sessionStorage.clear()
